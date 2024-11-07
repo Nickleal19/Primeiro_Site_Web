@@ -1,0 +1,35 @@
+section{
+    background-color: rgb(76, 222, 255);
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+
+section{
+    background-color: rgb(76, 222, 255);
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    font-family: arial, Arial, Helvetica, sans-serif;
+}
+
+ol img,ul img{
+    width: 3rem;
+}
+
+h3{
+    font-size: 3rem;
+}
+
+h4{
+    font-size: 2rem;
+}
+
+ol img{
+    width: 3rem;
+}
+
+h2{
+    font-size: 2;
+}
